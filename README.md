@@ -1,0 +1,2 @@
+# deadlock_changelog_summary_bot
+Summarizes Deadlock changelogs
